@@ -4,3 +4,4 @@ image:
 
 tasks:
   - init: ./script.sh
+    command: ./console wss://rpc4.bakerloo.autonity.network:8546
