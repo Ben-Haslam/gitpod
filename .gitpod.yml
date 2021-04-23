@@ -1,7 +1,5 @@
 ---
 
-image:
-  file: gitpod/workspace-full
 
 tasks:
   - init: mkdir nodejsconsole
